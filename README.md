@@ -37,7 +37,7 @@ You can choose, local setup or browser-based IDE: We recommend the local setup, 
 
 ### Browser-based IDE via StackBlitz, no local setup required
 
-1. Click the following link: [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/jschroeter/knime-fe-workshop)
+1. Click the following link: [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/HedgehogCode/knime-fe-workshop)
 2. Accept prompts to install recommended VS Code extensions, most importantly [Vue - Official Language Support](https://marketplace.visualstudio.com/items?itemName=vue.volar)
 3. After some time you should see the app homepage on the right side. You can ignore the "Unsupported engine" warnings in the terminal.
 4. As soon as you want to commit your changes you'll get asked to login via GitHub to fork the repo
